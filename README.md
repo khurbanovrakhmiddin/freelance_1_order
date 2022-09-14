@@ -3,6 +3,18 @@
 Super Clean house cleaner service
 
 
+##Using 
+
+
+Provider
+RXdart
+
+Send order Gmail address
+Firebase Crashlytics
+Firebase Remote Config (change the price of the service)
+
+
+
 
 ## Screenshots
 
@@ -19,6 +31,9 @@ Super Clean house cleaner service
 
 ### Success Page
 <img src="assets/img/6.jpeg" />
+
+
+### Sending order Gmail address
 <img src="assets/img/7.jpeg" />
 
 
